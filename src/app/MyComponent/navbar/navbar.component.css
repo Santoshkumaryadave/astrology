@@ -1,0 +1,11 @@
+
+.sticky-top{
+    background-color:#07273c ;
+}
+.container .img-thumbnail{
+    width: 70px;
+
+}
+.nav-link:hover{
+    color: orangered !important;
+}
